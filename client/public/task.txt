@@ -1,0 +1,7 @@
+1 . create weather react  app
+login signup and dashboard
+on input of city name it should show the city weather data using free weather api
+there should be features of login and signup and data should be stored in database
+frontend :react js
+backend node js
+database mongodb
